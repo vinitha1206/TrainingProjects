@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\assignment\\week3\\SSRS\\SalesProjectWeek3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD9670D-6528-25B5-8A03-D6AE368C92FC}|SalesProjectWeek3\\SalesProjectWeek3.rptproj|E:\\assignment\\week3\\SSRS\\SalesProjectWeek3\\SalesProjectWeek3\\StoreSalesWeek3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{FAD9670D-6528-25B5-8A03-D6AE368C92FC}|SalesProjectWeek3\\SalesProjectWeek3.rptproj|solutionrelative:SalesProjectWeek3\\StoreSalesWeek3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreSalesWeek3.rdl [Design]",
+              "DocumentMoniker": "E:\\assignment\\week3\\SSRS\\SalesProjectWeek3\\SalesProjectWeek3\\StoreSalesWeek3.rdl",
+              "RelativeDocumentMoniker": "SalesProjectWeek3\\StoreSalesWeek3.rdl",
+              "ToolTip": "E:\\assignment\\week3\\SSRS\\SalesProjectWeek3\\SalesProjectWeek3\\StoreSalesWeek3.rdl [Design]",
+              "RelativeToolTip": "SalesProjectWeek3\\StoreSalesWeek3.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T04:49:04.451Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
